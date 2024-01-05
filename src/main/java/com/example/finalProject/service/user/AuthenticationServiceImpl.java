@@ -12,7 +12,7 @@ import com.example.finalProject.security.service.UserDetailsImpl;
 import com.example.finalProject.security.service.UserService;
 import com.example.finalProject.security.util.EmailUtil;
 import com.example.finalProject.security.util.OtpUtil;
-import com.nimbusds.jose.crypto.PasswordBasedDecrypter;
+//import com.nimbusds.jose.crypto.PasswordBasedDecrypter;
 import jakarta.mail.MessagingException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
